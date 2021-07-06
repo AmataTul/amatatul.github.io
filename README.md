@@ -1,6 +1,7 @@
+# Portfolio Website
 
-### The current files consist of components for my portfolio website. 
-### The portfolio will be further updated and supplemented with new projects.
+This website serves as an online portfolio to showcase my web presence & featured projects. It was made using HTML & CSS.
+The website is currently in progress. The portfolio will be further updated and supplemented with new projects.
 
 
 
